@@ -7,6 +7,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%Problema 1%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
 disp("Problema 1: \n")
 x = input("Ingrese el valor de x: ");
 c = input("Ingrese el numero de cifras significativas: ");
@@ -39,5 +40,6 @@ function [v,ev,ea,n] = anpi_erf(x,c)
   endwhile
 endfunction
 
-res =  anpi_erf(x,c)
-printf("Fin del ejercicio 1 \n")
+
+[v,ev,ea,n] =  anpi_erf(x,c)
+printf("Fin del ejercicio 1 \n");
