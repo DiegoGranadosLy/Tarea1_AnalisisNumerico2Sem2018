@@ -1,4 +1,4 @@
-%Tecnologico de Costa Rica
+%Tecnologico de Costa Rica.
 %Area Academica de Ingenieria en Computadores
 %Analisis Numerico para Ingenieria
 %Profesor: Dr.Pablo Alvarado Moya
