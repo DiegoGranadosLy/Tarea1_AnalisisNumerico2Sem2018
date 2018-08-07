@@ -92,7 +92,3 @@ x2 = (-b-sqrt((b^2-(4*a*c))))/(2*a)
 disp("\n Formula cuadratica alternativa \n")
 x1 = (-2*c)/(b+sqrt((b^2-(4*a*c))))
 x2 = (-2*c)/(b-sqrt((b^2-(4*a*c))))
-
-disp("\n La solucion con la formula alternativa");
-disp("muestra un resultado mas exacto cuando");
-disp("b^2 es mucho mayor a 4ac.")
